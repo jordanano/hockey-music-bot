@@ -1,0 +1,35 @@
+{
+ "playlist": "spotify:playlist:1wdCSa5g5VGdDWtjhbQ0a2",
+ "tracks": [
+  {
+   "n": 1,
+   "title": "Whoomp! (There It Is)",
+   "artist": "Tag Team",
+   "sec": 225,
+   "uri": "spotify:track:4utp1jggcXcMzdPBTbnCA3",
+   "start": "0:00",
+   "explicit": false,
+   "short_start": "0:19",
+   "long_start": "0:00",
+   "short_ok": true,
+   "hit": "0:27",
+   "conf": "med",
+   "cats": ["medium", "long", "short"]
+  },
+  {
+   "n": 2,
+   "title": "Ice Ice Baby",
+   "artist": "Vanilla Ice",
+   "sec": 254,
+   "uri": "spotify:track:3XVozq1aeqsJwpXrEZrDJ9",
+   "start": "0:00",
+   "explicit": false,
+   "short_start": "0:10",
+   "long_start": "0:00",
+   "short_ok": true,
+   "hit": "0:18",
+   "conf": "high",
+   "cats": ["medium", "long", "short"]
+  }
+ ]
+}
