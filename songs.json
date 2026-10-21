@@ -15,21 +15,6 @@
    "hit": "0:27",
    "conf": "med",
    "cats": ["medium", "long", "short"]
-  },
-  {
-   "n": 2,
-   "title": "Ice Ice Baby",
-   "artist": "Vanilla Ice",
-   "sec": 254,
-   "uri": "spotify:track:3XVozq1aeqsJwpXrEZrDJ9",
-   "start": "0:00",
-   "explicit": false,
-   "short_start": "0:10",
-   "long_start": "0:00",
-   "short_ok": true,
-   "hit": "0:18",
-   "conf": "high",
-   "cats": ["medium", "long", "short"]
   }
  ]
 }
